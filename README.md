@@ -50,7 +50,5 @@ The company has extensive customer data but lacks clarity on actionable insights
 - pandas, numpy, matplotlib, seaborn, scipy
 
 ## Author
-Data Analytics Intern
+Sumit Rana
 
----
-For questions or feedback, contact the project owner.
